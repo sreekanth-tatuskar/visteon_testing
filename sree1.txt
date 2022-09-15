@@ -1,2 +1,4 @@
 First git document
-Modifying Doc
+Modify
+Rebasing branch is added.
+
